@@ -16,6 +16,9 @@ export default function Home() {
             <a href="https://x.com/theiter8r" className="block text-muted hover:text-text text-xs sm:text-sm">
               Twitter
             </a>
+            <a href="https://www.linkedin.com/in/raaj-patkar/" className="block text-muted hover:text-text text-xs sm:text-sm">
+              LinkedIn
+            </a>
             <a href="https://github.com/iraajp" className="block text-muted hover:text-text text-xs sm:text-sm">
               Github
             </a>
