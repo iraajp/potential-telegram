@@ -27,7 +27,7 @@ function NeuralPaths() {
   });
 
   return (
-    <svg className="absolute inset-0 w-full h-full opacity-10" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+    <svg className="absolute inset-0 w-full h-full opacity-15" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
       {connections.map((conn) => (
         <motion.path
           key={conn.id}
